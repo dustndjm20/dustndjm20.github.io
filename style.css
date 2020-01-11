@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway&display=swap');
+/*
+1.background color of the body should be tan
+2. Color of the text should be greens
+3. All headings (h1, h2, h3..) should have a font-family of cursive.
+4. All other text (not headings) should have a font-family of serif*/
+
+
+
+body {
+  background-color: tan;
+  color: green;
+  font-family: 'Lato', sans-serif;
+}
+h1, h2, h3 {
+  font-family: 'Raleway', sans-serif;
+}
+
+.least-popular {
+  color: red;
+}
+
+.most-popular {
+  color: blue;
+}
+
+#big {
+  color: purple;
+}
